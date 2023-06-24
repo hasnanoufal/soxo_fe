@@ -1,0 +1,10 @@
+.coffee-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+    gap: 20px; /* Adjust the gap between grid items */
+  }
+
+.margin {
+    margin: 30px;
+}
+  
